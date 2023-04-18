@@ -1,0 +1,14 @@
+.offer-line {
+    background-color: #00b3a3;
+    color: #fff;
+    font-size: 14px;
+    top: 45px !important;
+    z-index: 3;
+    display: flex;
+    justify-content: center;
+}
+
+.offer-text {
+    padding: 5px 0px;
+    margin: 0px;
+}
